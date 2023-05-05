@@ -1,5 +1,5 @@
 <?php
-require_once('src/php/CRUD/Generique/Commande.php');
+require_once('YourPath/php/CRUD/Generique/Commande.php');
 
 class CRUD_TEMPLATE extends Commande
 {
